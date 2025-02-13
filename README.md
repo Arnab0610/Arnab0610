@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arnab
+- 👋🏻 Hi, I’m Arnab Mondal
 - 👀 I’m Web Designer
 - 🌱 I’m currently persuing Web designing and development course from Arena Animation Chowringhee. ...
 - ✍🏻 Love to write code
