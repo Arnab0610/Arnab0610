@@ -20,7 +20,5 @@ Skills: HTML /  CSS /  BOOTSTAP / JS / WORDPRESS / TAILWIND CSS / PHP /MYSQLI
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Arnab0610)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub metrics](https://metrics.lecoq.io/Arnab0610)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Arnab0610)  
 
