@@ -1,27 +1,3 @@
-<svg fill="none" viewBox="0 0 430 40" width="430" height="40" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-        strong {
-          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif;
-          color: limegreen;
-          font-size: 1.5em;
-        }
-
-        .blink {
-          animation: blink-animation 1s steps(5, start) infinite;
-        }
-        @keyframes blink-animation {
-          to {
-            visibility: hidden;
-          }
-        }
-      </style>
-      <strong>My Name is Arnab Mondal and I like <span class="blink">web designer</span></strong>
-		</div>
-
-
-
 ### Hi there 👋, My Name Arnab Mondal
 #### Web Designer & Developer
 My name is Arnab mondal.i am a web designer. iam from Diamond Harbour.I had passed by secondary in 2018 and higher secondary education in 2020 from Belsingha Sikhshaytan School, and I had completed my graduation in history honours from Vivekananda College Thakurpukur 2023.
