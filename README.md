@@ -4,7 +4,7 @@ My name is Arnab mondal.i am a web designer. iam from Diamond Harbour.I had pass
 Currently I am pursuing Graphics web designing and development from Arena animation Chowringhee 2023-2024.My hobbies are coding, web design.
 It's all about me.
 
-Skills: HTML /  CSS /  BOOTSTAP / JS / WORDPRESS / TAILWIND CSS / PHP /MYSQLI
+Skills: HTML /  CSS /  BOOTSTAP / JS / WORDPRESS / TAILWIND CSS / PHP / MYSQLI
 
 - 🔭 I’m currently working on Web design & Developement 
 - 🌱 I’m currently learning Web design & Developement 
