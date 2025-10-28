@@ -10,7 +10,7 @@ It's all about me.
 Skills: HTML /  CSS /  BOOTSTAP / JS / WORDPRESS / TAILWIND CSS / PHP / MYSQLI
 
 - 🔭 I’m currently working on Web design & Developement 
-- 🌱 I’m currently learning Web design & Developement 
+- 🌱 I’m currently learning Tailwind CSS 
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: www.linkedin.com/in/arnabm0610 or https://github.com/Arnab0610 
 - 😄 Pronouns: Programmer 
